@@ -11,5 +11,10 @@ checkedin: true
 name: "Simoon",
 email: "simon@simon.com",
 checkedin: false
+},
+{
+name: "bob",
+email: "Bobsimon@simon.com",
+checkedin: false
 }
 ]);
